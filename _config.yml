@@ -105,7 +105,7 @@ author:
   bio              : "I am a Programmer."
   location         : "Somewhere"
   email            : "mskco.tp@gmail.com"
-  uri              : "https://github.com/mkhoeini"
+#  uri              : "https://github.com/mkhoeini"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
